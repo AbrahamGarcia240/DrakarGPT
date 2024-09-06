@@ -11,3 +11,5 @@ It has 6 layers (each layer is a block containing multihead attention, linear la
 The embedding size used is 384 and each head of the multihead attention layer uses an internal size of 384 / 6
 
 It takes around 50 mins to train in a T4 GPU from Google Colab
+
+![image](https://github.com/user-attachments/assets/f7869f2e-dddf-4b51-8e8f-056615420f79)
