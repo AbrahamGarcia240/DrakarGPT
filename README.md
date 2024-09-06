@@ -2,7 +2,7 @@
 
 Implementation of a decoder-only model based on "Attention is all you need" to create Game of Thrones text'
 
-This implementation follows uses an extract of Game of Thrones, creates a vocabulary based on only the lowercased characters of the document
+This implementation uses an extract of Game of Thrones, creates a vocabulary based on only the lowercased characters of the document
 
 It has around 10 M parameters, it uses a batch size of 64 and a block size of 256 (i.e the number of characters the model sees in order to produce the next one)
 
